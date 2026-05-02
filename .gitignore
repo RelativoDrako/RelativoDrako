@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs y temporales
+*.log
+*.tmp
+
+# DLL y binarios grandes
+*.dll
+*.so
+*.dylib
+
+# Carpetas pesadas
+###
