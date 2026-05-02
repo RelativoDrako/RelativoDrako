@@ -106,7 +106,7 @@ Use this profile as a concise reading path: identity, capability landing, flagsh
 | **Probabilistic Seismic Risk Prototype** | Flagship technical proof | Local-first risk workflow, bounded interpretation, traceable artifacts, API/data presentation, and publication-safe engineering communication. | [Open repository](https://github.com/RelativoDrako/probabilistic-seismic-risk-prototype) |
 | **Professional Landing Page** | Capability landing | A fast-read surface that connects positioning, selected work, CV, contact, and public proof in one place. | [Open landing](https://relativodrako.github.io/) |
 | **inventory-stream7-rescue** | Operational tooling proof | Cross-platform rescue triage, constrained hardware inventory, and evidence-first reporting for Windows and Linux environments. | [Open repository](https://github.com/RelativoDrako/inventory-stream7-rescue) |
-| **EdgeResilienceLab** | Publishable work in progress | Governed AI and resilient edge/OT architecture line focused on authority boundaries, human-in-the-loop operation, auditability, recovery patterns, and controlled future refinement. | [Open repository](https://github.com/RelativoDrako/EdgeResilienceLab) |
+| **EdgeResilienceLab** | Publishable work in progress | Governed AI and resilient edge/OT architecture line focused on authority boundaries, human-in-the-loop operation, auditability, recovery patterns, and controlled future refinement. | [Open repository](https://github.com/RelativoDrako/edge-resilience-lab) |
 
 <p align="center">
   <img src="./assets/curated_public_evidence.svg" alt="Curated public evidence across GitHub Profile, GitHub Pages, PSRP, inventory-stream7-rescue, and EdgeResilienceLab" width="100%" />
