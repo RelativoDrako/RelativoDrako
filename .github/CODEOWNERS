@@ -1,12 +1,5 @@
-# Profile surface
+# GENERATED FILE - do not edit manually
 /README.md @RelativoDrako
-
-# Profile assets
-/assets/** @RelativoDrako
-/*.svg @RelativoDrako
-/*.png @RelativoDrako
-/*.jpg @RelativoDrako
-
-# Workflow governance
 /.github/workflows/** @RelativoDrako
 /.github/CODEOWNERS @RelativoDrako
+/assets/** @RelativoDrako
