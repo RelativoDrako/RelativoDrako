@@ -1,0 +1,17 @@
+{
+    "repo_name":  "RelativoDrako",
+    "repo_kind":  "profile",
+    "required_checks":  [
+                            "profile-readme-lint",
+                            "profile-links-check",
+                            "profile-image-reference-check"
+                        ],
+    "critical_paths":  [
+                           "README.md",
+                           ".github/workflows"
+                       ],
+    "public_surface_paths":  [
+                                 "README.md",
+                                 "assets"
+                             ]
+}

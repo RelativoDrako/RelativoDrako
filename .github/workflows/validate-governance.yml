@@ -1,0 +1,38 @@
+# GENERATED FILE - do not edit manually
+name: Governance Validation
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  profile-readme-lint:
+    name: profile-readme-lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run profile-readme-lint
+        shell: pwsh
+        run: .\governance\templates\validators\readme-lint.ps1 -RepoRoot ${{ github.workspace }} -RequiredHeadingsJson '["Core Signals","Proof Pillars","What I Actually Do"]'
+  profile-links-check:
+    name: profile-links-check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run profile-links-check
+        shell: pwsh
+        run: .\governance\templates\validators\links-check.ps1 -RepoRoot ${{ github.workspace }} -TargetFilesJson '["README.md"]'
+  profile-image-reference-check:
+    name: profile-image-reference-check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run profile-image-reference-check
+        shell: pwsh
+        run: .\governance\templates\validators\image-reference-check.ps1 -RepoRoot ${{ github.workspace }} -TargetFilesJson '["README.md"]'
