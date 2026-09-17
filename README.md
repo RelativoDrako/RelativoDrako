@@ -14,7 +14,7 @@
 &nbsp;
 [![Capability Landing](https://img.shields.io/badge/Flagship-Capability_Landing-111827)](https://relativodrako.github.io/)
 &nbsp;
-[![Primary Proof](https://img.shields.io/badge/Primary_Proof-Probabilistic_Seismic_Risk_Prototype-166534)](https://github.com/RelativoDrako/probabilistic-seismic-risk-prototype)
+[![Primary Proof](https://img.shields.io/badge/Primary_Proof-Engineering_Portfolio-166534)](https://github.com/RelativoDrako/engineering-portfolio)
 
 </div>
 
@@ -99,26 +99,24 @@ I prioritize observable, governable systems that fail predictably and remain def
 
 ## Public Evidence
 
-Use this profile as a concise reading path: identity, capability landing, flagship proof, operational tooling, and architecture direction.
+Start with the integrated portfolio for a concise, evidence-linked review of four bounded public demonstrations. The domain repositories provide the underlying technical detail and validation context. Earlier public work remains available as additional evidence.
 
 | Start here | Role | What you will find | Direct link |
 |---|---|---|---|
-| **Probabilistic Seismic Risk Prototype** | Flagship technical proof | Local-first risk workflow, bounded interpretation, traceable artifacts, API/data presentation, and publication-safe engineering communication. | [Open repository](https://github.com/RelativoDrako/probabilistic-seismic-risk-prototype) |
-| **Professional Landing Page** | Capability landing | A fast-read surface that connects positioning, selected work, CV, contact, and public proof in one place. | [Open landing](https://relativodrako.github.io/) |
-| **inventory-stream7-rescue** | Operational tooling proof | Cross-platform rescue triage, constrained hardware inventory, and evidence-first reporting for Windows and Linux environments. | [Open repository](https://github.com/RelativoDrako/inventory-stream7-rescue) |
-| **EdgeResilienceLab** | Publishable work in progress | Governed AI and resilient edge/OT architecture line focused on authority boundaries, human-in-the-loop operation, auditability, recovery patterns, and controlled future refinement. | [Open repository](https://github.com/RelativoDrako/EdgeResilienceLab) |
+| **Engineering Portfolio** | Primary integrated proof | Zero-dependency review surface connecting validated OT resilience, governed data, AI assurance and traceable architecture decisions. | [Open portfolio](https://github.com/RelativoDrako/engineering-portfolio) |
+| **Architecture Decision Workbench** | Architecture decision proof | Requirements, alternatives, fit-gap, trade-offs, verification mapping and sensitivity replay in a synthetic advisory scenario. | [Open repository](https://github.com/RelativoDrako/architecture-decision-workbench) |
+| **Industrial Resilience OT Lab** | Resilient operations proof | Synthetic fault-aware control, controlled degradation and recovery, observable state, validation and deterministic replay. | [Open repository](https://github.com/RelativoDrako/industrial-resilience-ot-lab) |
+| **Governed AI Assurance** | Assurance proof | Evidence grounding, citation checks, controlled abstention, human review and replay in a bounded synthetic corpus. | [Open repository](https://github.com/RelativoDrako/governed-ai-assurance) |
+| **Governed Data & Analytics** | Data governance proof | Contract-based admission, quarantine, quality, lineage and trusted KPI outputs from a bounded synthetic dataset. | [Open repository](https://github.com/RelativoDrako/governed-data-analytics) |
 
-<p align="center">
-  <img src="./assets/curated_public_evidence.svg" alt="Curated public evidence across GitHub Profile, GitHub Pages, PSRP, inventory-stream7-rescue, and EdgeResilienceLab" width="100%" />
-</p>
+### Additional Public Evidence
 
-<p align="center"><em>Evidence surface: public repositories and landing assets are organized as complementary proof points, not as competing project claims.</em></p>
-
-<p align="center">
-  <img src="./assets/selected_project_highlights.svg" alt="Selected project highlights including PSRP, inventory-stream7-rescue, GitHub Profile and Pages, and EdgeResilienceLab" width="100%" />
-</p>
-
-<p align="center"><em>Project signal: PSRP remains the primary technical proof; inventory-stream7-rescue demonstrates operational tooling; EdgeResilienceLab communicates publishable architecture direction.</em></p>
+| Reference | Role | Direct link |
+|---|---|---|
+| **Probabilistic Seismic Risk Prototype** | Additional bounded technical proof | [Open repository](https://github.com/RelativoDrako/probabilistic-seismic-risk-prototype) |
+| **inventory-stream7-rescue** | Additional operational tooling proof | [Open repository](https://github.com/RelativoDrako/inventory-stream7-rescue) |
+| **EdgeResilienceLab** | Publishable architecture work in progress | [Open repository](https://github.com/RelativoDrako/edge-resilience-lab) |
+| **Professional Landing Page** | Professional navigation and contact surface | [Open landing](https://relativodrako.github.io/) |
 
 ## Professional Boundary
 
