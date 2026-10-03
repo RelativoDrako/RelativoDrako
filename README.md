@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/hero_flagship_canonical.svg" alt="Daniel Franco Fajardo â€” Principal Systems Architect, Critical and Intelligent Infrastructure" width="100%" />
+  <img src="./assets/hero_flagship_canonical.svg" alt="Daniel Franco Fajardo — Principal Systems Architect, Critical and Intelligent Infrastructure" width="100%" />
 </p>
 
 ---
@@ -38,13 +38,13 @@ I contribute where technical scope, operational behavior, and delivery constrain
 
 ## Core Signals
 
-- **9+ years** across mission-critical transportation and industrial environments
-- **Former Product Design Authority (PDA)** for railway, tolling, and traffic-control platforms
+- experience across **mission-critical transportation systems and industrial/OT environments**
+- PDA-linked architecture, governance, and validation responsibilities in **critical transportation systems**
 - international technical coordination across **France, Italy, and Mexico**
 - integration across **PLCs, Modbus, sensors, SBCs, edge devices, software platforms, and validation environments**
 - applied work in **requirements analysis, gap evaluation, design trade-offs, R&D-oriented technology adoption, and operational validation**
 - experience supporting **technical proposals, compliance matrices, punch lists, supplier alignment, and executive / non-technical presentations**
-- **M.Sc. in Artificial Intelligence** coursework completed; degree process underway
+- **M.Sc. in Artificial Intelligence** — completed in April 2026; degree obtained through direct graduation by academic average. Official title/diploma issuance pending confirmation
 
 ## Proof Pillars
 
@@ -91,7 +91,6 @@ I prioritize observable, governable systems that fail predictably and remain def
 
 ## Professional Experience Highlights
 
-- Improved PLC-based vehicle classification effectiveness by **25%** through logic optimization, process standardization, and validation improvements
 - Designed and implemented a **Semi Stop & Go** solution for elevated urban highway operations
 - Built real-time turnstile counting systems with **Modbus communication, offline buffering, alerting, and fault-tolerant handling**
 - Developed a **PLC event simulator with Raspberry Pi** to reduce test time and improve repeatability
@@ -114,8 +113,7 @@ Start with the integrated portfolio for a concise, evidence-linked review of fou
 | Reference | Role | Direct link |
 |---|---|---|
 | **Probabilistic Seismic Risk Prototype** | Additional bounded technical proof | [Open repository](https://github.com/RelativoDrako/probabilistic-seismic-risk-prototype) |
-| **inventory-stream7-rescue** | Additional operational tooling proof | [Open repository](https://github.com/RelativoDrako/inventory-stream7-rescue) |
-| **EdgeResilienceLab** | Publishable architecture work in progress | [Open repository](https://github.com/RelativoDrako/edge-resilience-lab) |
+| **EdgeResilienceLab** | Controlled WIP — documentation and governance-pattern work; no deployment claim | [Open repository](https://github.com/RelativoDrako/edge-resilience-lab) |
 | **Professional Landing Page** | Professional navigation and contact surface | [Open landing](https://relativodrako.github.io/) |
 
 ## Professional Boundary
